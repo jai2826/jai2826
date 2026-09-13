@@ -55,13 +55,6 @@ Task management SaaS built with a modern full-stack architecture.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jai2826&show_icons=true&theme=default" alt="Jai's GitHub stats" />
-</p>
-
----
 
 ### 🏆 Open Source
 
